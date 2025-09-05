@@ -1,2 +1,9 @@
 # mtm6201-020-week1-demo
-This is a description.
+## week 1
+
+we are learning about the followo=ing steps
+
+-course overview
+-creating git repo
+-seting up github pages
+
